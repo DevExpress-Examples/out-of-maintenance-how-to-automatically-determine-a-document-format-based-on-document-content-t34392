@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRichEditCommands.cs](./CS/WindowsFormsApplication1/CustomRichEditCommands.cs) (VB: [CustomRichEditCommands.vb](./VB/WindowsFormsApplication1/CustomRichEditCommands.vb))
+* [Form1.cs](./CS/WindowsFormsApplication1/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication1/Form1.vb))
+* [RichEditControlExtensions.cs](./CS/WindowsFormsApplication1/RichEditControlExtensions.cs) (VB: [RichEditControlExtensions.vb](./VB/WindowsFormsApplication1/RichEditControlExtensions.vb))
+<!-- default file list end -->
 # How to automatically determine a document format based on document content 
 
 
